@@ -31,4 +31,4 @@ População em São Paulo em 2010 - Município com Maior Concentração
 -
 *A imagem mostra qual município tinha o maior número de população em 2010, que é São Paulo, com 11.451.999 habitantes. No mapa dá pra ver a soma da população por município no estado de São Paulo, com destaque pra região da capital e interior.*
 
-<img width="1600" height="877" alt="WhatsApp Image 2026-10-02 at 21 33 46" src="https://github.com/user-attachments/assets/f6fa2d2f-66c2-474c-b4dc-6b14ca9e15a9" />
+<img width="1297" height="730" alt="image" src="https://github.com/user-attachments/assets/61dde4a9-350d-4b16-b6e7-9ced69a53fb8" />
