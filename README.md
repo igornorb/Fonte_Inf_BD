@@ -19,13 +19,13 @@ Atividade das empresas multmodais no Brasil
 -
 *Neste mapa eu mostrei a contagem de COTM por cidade das empresas multimodais registradas na ANTT. Dá pra ver que tem 273 registros no total e que a maioria está concentrada no Sudeste e Sul, principalmente em SP.*
 
-<img width="1600" height="900" alt="WhatsApp Image 2026-10-02 at 21 04 38 (2)" src="https://github.com/user-attachments/assets/95ab47f6-59ac-4386-9847-5a151d6044c5" />
+<img width="1297" height="731" alt="image" src="https://github.com/user-attachments/assets/c5f759c9-2540-40c7-b813-3779eef5a505" />
 
 Atividade das empresas multmodais - Editada
 -
 *Nesse trabalho eu fiquei responsável por editar e enfeitar o mapa da ANTT sobre as Empresas Multimodais.*
 
-<img width="1600" height="909" alt="WhatsApp Image 2026-10-02 at 21 15 54" src="https://github.com/user-attachments/assets/9c16b41a-a220-4213-82f8-3c2c2654a9fd" />
+<img width="1294" height="733" alt="image" src="https://github.com/user-attachments/assets/d16ac1f8-3087-4885-b8fe-6a23a76924ee" />
 
 População em São Paulo em 2010 - Município com Maior Concentração
 -
