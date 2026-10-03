@@ -26,3 +26,9 @@ Atividade das empresas multmodais - Editada
 *Nesse trabalho eu fiquei responsável por editar e enfeitar o mapa da ANTT sobre as Empresas Multimodais.*
 
 <img width="1600" height="909" alt="WhatsApp Image 2026-10-02 at 21 15 54" src="https://github.com/user-attachments/assets/9c16b41a-a220-4213-82f8-3c2c2654a9fd" />
+
+População em São Paulo em 2010 - Município com Maior Concentração
+-
+*A imagem mostra qual município tinha o maior número de população em 2010, que é São Paulo, com 11.451.999 habitantes. No mapa dá pra ver a soma da população por município no estado de São Paulo, com destaque pra região da capital e interior.*
+
+<img width="1600" height="877" alt="WhatsApp Image 2026-10-02 at 21 33 46" src="https://github.com/user-attachments/assets/f6fa2d2f-66c2-474c-b4dc-6b14ca9e15a9" />
