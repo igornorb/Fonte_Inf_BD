@@ -14,3 +14,9 @@ Percentual de população por região do estado de São Paulo
 *Nesse trabalho analisei os dados do IBGE sobre a população do estado de SP por região metropolitana e criei o gráfico pra mostrar onde a população está mais concentrada.*
 
 <img width="1634" height="380" alt="image" src="https://github.com/user-attachments/assets/f5cb41b6-631d-4e75-bae0-4b895ae4b942" />
+
+Atividade das empresas multmodais no Brasil
+-
+*Neste mapa eu mostrei a contagem de COTM por cidade das empresas multimodais registradas na ANTT. Dá pra ver que tem 273 registros no total e que a maioria está concentrada no Sudeste e Sul, principalmente em SP.*
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-02 at 21 04 38 (2)" src="https://github.com/user-attachments/assets/95ab47f6-59ac-4386-9847-5a151d6044c5" />
