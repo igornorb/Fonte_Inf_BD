@@ -38,3 +38,7 @@ Gráfico de regressão linear gerado no Colab
 
 <img width="986" height="580" alt="image" src="https://github.com/user-attachments/assets/eee8504e-bfe2-4d4e-b2eb-1024405da2f0" />
 
+Gráfico de regressão linear gerado no Excel
+-
+
+<img width="1461" height="674" alt="image" src="https://github.com/user-attachments/assets/22199d2d-c839-4ba6-9bcd-7e972e2e13d8" />
