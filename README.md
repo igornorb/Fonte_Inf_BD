@@ -42,3 +42,8 @@ Gráfico de regressão linear gerado no Excel
 -
 
 <img width="1461" height="674" alt="image" src="https://github.com/user-attachments/assets/22199d2d-c839-4ba6-9bcd-7e972e2e13d8" />
+
+Evolução da expectativa de vida no Brasil e nos três países mais afetados pelas duas grandes guerras
+-
+
+<img width="1281" height="779" alt="image" src="https://github.com/user-attachments/assets/6e2a5fdd-ee89-48f5-9b96-1d88667b58a5" />
