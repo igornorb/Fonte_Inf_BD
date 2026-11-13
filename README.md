@@ -48,7 +48,8 @@ Evolução da expectativa de vida no Brasil e nos três países mais afetados pe
 
 <img width="1281" height="779" alt="image" src="https://github.com/user-attachments/assets/6e2a5fdd-ee89-48f5-9b96-1d88667b58a5" />
 
-* Gráfico de regressão linear Prova
+Gráfico de regressão linear Prova
+-
 
   <img width="1665" height="750" alt="image" src="https://github.com/user-attachments/assets/d77ac91b-8023-4a3f-89b8-c436229fb7ae" />
 
