@@ -53,3 +53,20 @@ Gráfico de regressão linear Prova
 
   <img width="1665" height="750" alt="image" src="https://github.com/user-attachments/assets/d77ac91b-8023-4a3f-89b8-c436229fb7ae" />
 
+Dashboard 1 Prova de GPI
+-
+
+<img width="1093" height="679" alt="image" src="https://github.com/user-attachments/assets/a0d60fdd-6afc-4250-b3b3-bda2cf2d4f23" />
+
+Dashboard 2 Prova GPI
+-
+
+<img width="1322" height="763" alt="image" src="https://github.com/user-attachments/assets/5ce75a7a-878d-4d5b-8912-66e48a5228d3" />
+
+Dashboard 2 Prova GPI
+-
+
+<img width="1014" height="674" alt="image" src="https://github.com/user-attachments/assets/7c7f1cb9-70a2-4ebb-9413-f32ccac81096" />
+
+
+
