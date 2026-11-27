@@ -54,6 +54,21 @@ Este gráfico ilustra a aplicação de um modelo de Regressão Linear Simples pa
 Gráfico de regressão linear gerado no Excel
 -
 
+📈 Indicativos de Vendas: Análise de Regressão no Excel
+
+*Esta imagem apresenta a modelagem estatística e a visualização de dados realizadas no Microsoft Excel para avaliar o impacto da temperatura no faturamento (Revenue).
+• Base de Dados (À esquerda): Tabela contendo os registros históricos de temperatura (Temperature) e o respectivo faturamento em reais (Revenue).
+• Matriz Estatística (PROJ.LIN): Bloco de cálculo auxiliar no topo contendo os parâmetros da regressão, incluindo o coeficiente angular (20,89), o intercepto (50,23) e o coeficiente de determinação (R² ≈ 0,86).
+• Eixo X (Variável Independente): Temperatura, variando de 0,0 a 50,0.
+• Eixo Y (Variável Dependente): Faturamento em reais (R$), variando de R$ 0,00 a R$ 1.200,00.
+• Pontos Azuis e Linha Pontilhada Vermelha: Dispersão dos valores reais observados comparados à linha de tendência linear.
+
+🔍 Principais Insights
+
+• Equação da Reta (y = 20,892x + 50,231): Indica que, em média, cada aumento de 1°C na temperatura gera um acréscimo de aproximadamente R$ 20,89 no faturamento.
+• Poder Explicativo (R² ≈ 86,5%): O coeficiente de determinação mostra que cerca de 86,5% da variação nas vendas pode ser explicada diretamente pela temperatura, mesmo com a presença de alguns pontos fora da curva (outliers) próximos ao eixo zero.*
+
+
 <img width="1461" height="674" alt="image" src="https://github.com/user-attachments/assets/22199d2d-c839-4ba6-9bcd-7e972e2e13d8" />
 
 Evolução da expectativa de vida no Brasil e nos três países mais afetados pelas duas grandes guerras
