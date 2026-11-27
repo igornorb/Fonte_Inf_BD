@@ -35,6 +35,19 @@ População em São Paulo em 2010 - Município com Maior Concentração
 
 Gráfico de regressão linear gerado no Colab
 -
+*
+📊 Regressão Linear: Temperatura vs. Faturamento
+
+Este gráfico ilustra a aplicação de um modelo de Regressão Linear Simples para analisar e prever o faturamento (Revenue) com base na temperatura ambiente (°C).
+• Eixo X (Variável Independente): Temperatura em graus Celsius (°C), variando aproximadamente de 0°C a 45°C.
+• Eixo Y (Variável Dependente): Faturamento (Revenue), variando de 0 a 1000.
+• Pontos Azuis: Representam os dados reais observados no conjunto de dados (dataset).
+• Linha Vermelha: Representa a reta de regressão ajustada pelo modelo, demonstrando a tendência linear.
+
+🔍 Principais Insights
+
+• Correlação Positiva Forte: Há uma relação linear diretamente proporcional muito clara entre as variáveis — conforme a temperatura aumenta, o faturamento cresce de forma consistente.
+• Bom Ajuste do Modelo: A baixa dispersão dos pontos em torno da linha vermelha indica que o modelo possui um erro residual pequeno e explica bem a variabilidade dos dados (alto coeficiente de determinação \(R^{2}\)).8
 
 <img width="986" height="580" alt="image" src="https://github.com/user-attachments/assets/eee8504e-bfe2-4d4e-b2eb-1024405da2f0" />
 
