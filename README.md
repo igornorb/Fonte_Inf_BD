@@ -74,6 +74,25 @@ Gráfico de regressão linear gerado no Excel
 Evolução da expectativa de vida no Brasil e nos três países mais afetados pelas duas grandes guerras
 -
 
+🌍 Evolução Histórica da Expectativa de Vida por País (Power BI)
+
+*Este painel de visualização (dashboard), construído no Power BI, apresenta uma análise de séries temporais sobre a evolução da expectativa de vida (Idade) ao longo dos séculos XIX, XX e XXI em quatro países distintos.
+• Eixo X (Tempo): Anos (Year), cobrindo o período aproximado de 1880 até a década de 2020.
+• Eixo Y (Métrica): Expectativa de vida média em anos (rotulada no visual como Soma de Idade), variando entre 30 e 85 anos.
+• Segmentação por País (Entity):
+	• 🟢 Brasil (Superior Esquerdo)
+	• 🔘 Estados Unidos (Superior Direito)
+	• 🔵 Japão (Inferior Esquerdo)
+	• 🔷 Alemanha (Inferior Direito)
+
+🔍 Principais Insights
+
+• Tendência Geral de Crescimento: Todos os quatro países exibem um forte avanço na longevidade ao longo do século XX, impulsionado por melhorias na medicina, saneamento e qualidade de vida.
+• Impacto de Eventos Históricos:
+	• Guerras Mundiais: Observam-se quedas bruscas e acentuadas nas curvas da Alemanha (por volta de 1914–1918) e do Japão (próximo a 1945), refletindo o impacto direto dos conflitos mundiais.
+	• Pandemias: Nota-se um recuo pontual nos Estados Unidos por volta de 1918 (Gripe Espanhola) e uma leve retração recente no Brasil e nos EUA por volta de 2020–2021 (COVID-19).
+• Recuperação Acelerada: Após a década de 1950, o Japão apresenta a curva de crescimento mais íngreme, ultrapassando a marca dos 80 anos e liderando o grupo nas décadas mais recentes.*
+
 <img width="1281" height="779" alt="image" src="https://github.com/user-attachments/assets/6e2a5fdd-ee89-48f5-9b96-1d88667b58a5" />
 
 Gráfico de regressão linear Prova
